@@ -4,6 +4,7 @@
 	<application>jsf2-gae</application>
 	<version>1</version>
 	<sessions-enabled>true</sessions-enabled>
+	<threadsafe>true</threadsafe>
 	
 	<!-- Configure java.util.logging -->
 	<system-properties>

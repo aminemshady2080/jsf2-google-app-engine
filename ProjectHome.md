@@ -1,0 +1,1 @@
+Simple code stub for jsf 2 on google app engine
